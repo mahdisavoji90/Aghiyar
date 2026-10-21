@@ -63,7 +63,7 @@ jobs:
             SDKMANAGER="$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"
           fi
 
-          chmod +x "$SDKMANAGER"
+         
 
           echo "Using sdkmanager: $SDKMANAGER"
 
